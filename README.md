@@ -13,6 +13,7 @@ Do you want to work on something exciting, challenging and impactful?
 ![Team](https://s3-ap-southeast-1.amazonaws.com/quod.ai/IMG_4751_xs.jpg "Team")
 
 Our [CEO](https://www.linkedin.com/in/hroussel/) is a well recognized thought leader and speaker on AI and Software Engineering. He is an ex Silicon Valley CTO with 10+ years of experience in the US. He is also an advisor and mentor for organizations such as the IBM AI XPRIZE, PlatoHQ (YC’16), RMIT, AngelHack and more.
+
 Our [Chief Scientist](https://www.linkedin.com/in/mikhfilippov/) is an is an award winning mathematical physicist. He is an expert at modeling complex systems (weather, neurobiological systems, real estate and more). His research background has led him to create AI & NLP models for prestigious institutions like UCL, NTU Complexity Institute & Polytechnique Paris and used by world renowned organizations like NASA & MAS.
 
 ### Job openings
