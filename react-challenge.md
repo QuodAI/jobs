@@ -24,7 +24,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 __A GitHub project__
 
-- README.md: describes dependencies, how to set up, how to run and any other additional information you may want to share. Create a technical decision section and answer the following questions:
+- README.md: describes dependencies, how to set up, how to run and any other additional information you may want to share. Create a section called `Technical decision` and answer the following questions:
   - How did you implement styling? What are the pros and cons? Why did you chose this approach? 
   - How did you share state between components?  What are the pros and cons? Why did you chose this approach? 
   - Did you use React hooks? Why or why not?
