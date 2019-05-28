@@ -20,11 +20,26 @@ This is the `fetch` method to use for the api call, no need for jQuery.
 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
-### Technical decisions
+### Deliverables
 
-- How did you implement styling? What are the pros and cons? Why did you chose this approach? 
-- How did you share state between components?  What are the pros and cons? Why did you chose this approach? 
-- Did you use React hooks? Why or why not?
+__A GitHub project__
+
+- README.md: describes dependencies, how to set up, how to run and any other additional information you may want to share. Create a technical decision section and answer the following questions:
+  - How did you implement styling? What are the pros and cons? Why did you chose this approach? 
+  - How did you share state between components?  What are the pros and cons? Why did you chose this approach? 
+  - Did you use React hooks? Why or why not?
+- Clean code: don’t over engineer but make your code as readable as it needs to be.
+- Build file
+
+Email herve@quod.ai with the URL to your GitHub repo.
+
+## Evaluation metrics ##
+
+- Code quality and clarity
+- Clean folder structure
+- Simple but suitable design
+- Meaningful variable names and functions
+- Meaningful commits (not too big, not too small)
 
 ### ReactJS resources
 
