@@ -6,7 +6,7 @@ The API supports pagination, at the beginning load the first page with 5 issues.
 
 Clicking on an issue item to highlight it. Click on it again will toggle the highlight. Only 1 item is highlighted at a time. 
 
-Wall feed and notifications: use redux to store the 5 most recently highlighted issues. Showa list of recently highlighted issues and a notification counter for recently highlighted issues.
+Facebook like "wall feed" and notifications: use redux to store the 5 most recently highlighted issues. Show a list of recently highlighted issues and a notification counter for recently highlighted issues so that any user can view the highlight in "real time".
 
 Feel free to implement the UI your own way. However we'll pay attention to code quality, and how neatly you implement it. 
 
