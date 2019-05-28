@@ -6,9 +6,9 @@ The API supports pagination, at the beginning load the first page with 5 issues.
 
 Clicking on an issue item to highlight it. Click on it again will toggle the highlight. Only 1 item is highlighted at a time. 
 
-Feel free to implement the UI your own way. However we'll pay attention to code quality, and how neatly you implement it. 
+Use redux to store the 5 most recently highlighted issues. Implement another component to display the IDs of most recently highlighted issues above the main list of issues.
 
-Bonus: use redux to store the 5 most recently highlighted issues. Implement another component to display the titles of most recently highlighted issues above the main list of issues.
+Feel free to implement the UI your own way. However we'll pay attention to code quality, and how neatly you implement it. 
 
 ### API
 
