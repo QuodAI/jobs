@@ -28,6 +28,7 @@ __A GitHub project__
   - How did you implement styling? What are the pros and cons? Why did you chose this approach? 
   - How did you share state between components?  What are the pros and cons? Why did you chose this approach? 
   - Did you use React hooks? Why or why not?
+  - What would you improve?
 - Clean code: don’t over engineer but make your code as readable as it needs to be.
 - Build file
 
