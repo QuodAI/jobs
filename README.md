@@ -2,11 +2,9 @@
   <img src="https://s3-ap-southeast-1.amazonaws.com/quod.ai/logo-sm.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
-Are you bored and unchallenged at your job?
+Are you bored and unchallenged at your job? Do you want to work on something exciting, challenging and impactful?
 
-Do you want to work on something exciting, challenging and impactful?
-
-[Quod AI](http://quod.ai) is a young and exciting AI/NLP start-up with an unmatched team of engineers and scientists. We’re applying Deep Learning and NLP on source code to super charge software engineering teams with a coding assistant. We want to revolutionize the way software products are built and to accelerate innovation worldwide. We are funded and backed by SGInnovate, Entrepreneur First and 500 Startups.
+[Quod AI](http://quod.ai) is a young and exciting AI/NLP applied research start-up with an unmatched team of engineers and scientists. We’re applying Deep Learning and NLP on source code to super charge software engineering teams with a coding assistant. We want to revolutionize the way software products are built and to accelerate innovation worldwide. We are funded and backed by 500 Startups, Entrepreneur First and SGInnovate.
 
 ### Team
 
