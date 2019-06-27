@@ -6,7 +6,7 @@ Are you bored and unchallenged at your job?
 
 Do you want to work on something exciting, challenging and impactful?
 
-[Quod AI](http://quod.ai) is a young and exciting AI/NLP start-up with an unmatched team of engineers and scientists. We’re applying Deep Learning and NLP on source code  to empower software engineering teams to develop software products faster and better. We want to revolutionize the way software products are built and to accelerate innovation worldwide. We are funded and backed by SGInnovate and Entrepreneur First.
+[Quod AI](http://quod.ai) is a young and exciting AI/NLP start-up with an unmatched team of engineers and scientists. We’re applying Deep Learning and NLP on source code to super charge software engineering teams with a coding assistant. We want to revolutionize the way software products are built and to accelerate innovation worldwide. We are funded and backed by SGInnovate, Entrepreneur First and 500 Startups.
 
 ### Team
 
