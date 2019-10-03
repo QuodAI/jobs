@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="https://s3-ap-southeast-1.amazonaws.com/quod.ai/logo-sm.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://s3-ap-southeast-1.amazonaws.com/quod.ai/logo-sm.png?raw=true"/>
 </p>
 
-Are you bored and unchallenged at your job? Do you want to work on something exciting, challenging and impactful?
+What if every software engineer could hold 1 billion lines of code in their head? 
+How would it change the way we build software? 
+How would it accelerate our innovations for the rest of the world?
 
-[Quod AI](http://quod.ai) is a young and exciting AI/NLP applied research start-up with an unmatched team of engineers and scientists. We’re applying Deep Learning and NLP on source code to super charge software engineering teams with a coding assistant. We want to revolutionize the way software products are built and to accelerate innovation worldwide. We are funded and backed by 500 Startups, Entrepreneur First and SGInnovate.
+Quod AI aims to create the first AI assistant for software engineering team. Our first product translates raw source code into natural language to help software engineering team manage the complexity of large codebase. To do this, we apply NLP and Deep Learning onto more than 1 billion lines of code.
 
-### Team
+We are funded and backed by 500 Startups, Xooglers Angels, Entrepreneur First and SGInnovate.
 
-![Team](https://s3-ap-southeast-1.amazonaws.com/quod.ai/IMG_4751_xs.jpg "Team")
-
-Our [CEO](https://www.linkedin.com/in/hroussel/) is a well recognized thought leader and speaker on AI and Software Engineering. He is an ex Silicon Valley CTO with 10+ years of experience in the US. He is also an advisor and mentor for organizations such as the IBM AI XPRIZE, PlatoHQ (YC’16), RMIT, AngelHack and more.
-
-Our [Chief Scientist](https://www.linkedin.com/in/mikhfilippov/) is an is an award winning mathematical physicist. He is an expert at modeling complex systems (weather, neurobiological systems, real estate and more). His research background has led him to create AI & NLP models for prestigious institutions like UCL, NTU Complexity Institute & Polytechnique Paris and used by world renowned organizations like NASA & MAS.
+![Team](https://lh3.googleusercontent.com/abRHa6EO6fK39bvINTztJV27NAt_m5N0J0cuYtAwOysuySysHu2KsbztCa6dVWXGez335Esz0dUQp0iXCXkYu2Fh0rSwbBqcNbi-uqktWm41xLHshsQG-UKPKAVyOmKUVdeqolrxHLAGLYBaGGaQgfUul4aPC3EiJ9hP8pyQCq4lGpirapg7BEWhfxTCU0KgmhD9T09LbC2iWjpVaDQYbTekhBDefv2-8lyPE9B0tiPhlAdSZhkPRWdnhR71YtwAwWZKT-AOejxx_6mC8Hrb-Mm6pyOhQt11o_aeBV6VymyjNWF7lNO5yjh-Tull0xabGFViMTE_MHGGDdhgLqNXKSYjEXNecnEwl0in6QfHgSOGYLh9JhXJNE-10g0PD9jKyE4AdqfxgkqzffaMxPn_i5uwhNmcZyvTPodrnJ3armrOcTim6aPo00qs9aDsuP8NArTSBt5yRN_ie_egl_uvHpigyZiQDIiUQbkdlR_hRrx9OspcIo6H7hetlYWxr0wZ7X2VML56F8dwcOfj2w9uC5bRb2Vu2qnJjjGOnBuSnDNAJA9dwAYbM2zl67RoeLHp8Dey8kQwJ5PTeJH4loc_sTRQsFelQ9yDb8OQ1aJY7yRyM120MnxCfxVs7jOO2MJMkxZD4ovvNjL-ysUaAXCY6V1j_ohWGa7hG4JVMEKWNF-zeimJDMDvj0MthAiNzo_MheKx3cUNQETU1Pj7Yo6ghQLEE2Kmq8-GhEuZnCbhLvIIqEnugg=w1262-h946-no "Team")
 
 ### Job openings
 
