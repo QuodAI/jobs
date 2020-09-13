@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s3-ap-southeast-1.amazonaws.com/quod.ai/logo-sm.png?raw=true"/>
+  <img src="https://uploads-ssl.webflow.com/5e5cb288c9fe845aa6a23577/5e61f580280007c802c95ac7_quod-ai-logo.png" alt="Quod AI logo"/>
 </p>
 
 What if every software engineer could hold 1 billion lines of code in their head? 
