@@ -2,11 +2,7 @@
   <img src="https://uploads-ssl.webflow.com/5e5cb288c9fe845aa6a23577/5e61f580280007c802c95ac7_quod-ai-logo.png" alt="Quod AI logo"/>
 </p>
 
-What if every software engineer could hold 1 billion lines of code in their head? 
-How would it change the way we build software? 
-How would it accelerate our innovations for the rest of the world?
-
-Quod AI aims to create the first AI assistant for software engineering team. Our first product translates raw source code into natural language to help software engineering team manage the complexity of large codebase. To do this, we apply NLP and Deep Learning onto more than 1 billion lines of code.
+Quod AI helps large software developer teams write code better and faster. We've built a search engine to find code 3-4x faster in large and complex codebase. To do this, we apply NLP and Deep Learning onto more than 1.7 billion lines of code.
 
 <img src="http://bit.ly/quod-ai-photo-team" alt="Team" width="300" />
 
